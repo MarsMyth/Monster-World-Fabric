@@ -2,7 +2,7 @@ package net.mars_myth.monsterworld;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.mars_myth.monsterworld.item.MonsterBalls;
+import net.mars_myth.monsterworld.item.balls.MonsterBalls;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

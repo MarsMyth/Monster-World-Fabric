@@ -1,6 +1,7 @@
-package net.mars_myth.monsterworld.item;
+package net.mars_myth.monsterworld.item.balls;
 
 import net.mars_myth.monsterworld.MoonyMonsterWorld;
+import net.mars_myth.monsterworld.item.balls.custom.BasicMonsterBall;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -11,7 +12,7 @@ public class MonsterBalls {
 
 
     public static final Item BASIC_BALL = registerItem("basic_ball",
-            new Item(new Item.Settings()));
+            new BasicMonsterBall(new Item.Settings()));
 
 
 
