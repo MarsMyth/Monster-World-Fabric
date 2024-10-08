@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench & Love",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "monster-world:item/basic_ball_texture",
-		"particle": "monster-world:item/basic_ball_texture"
+		"0": "monster-world:item/basic_ball_texture_3d",
+		"particle": "monster-world:item/basic_ball_texture_3d"
 	},
 	"elements": [
 		{
