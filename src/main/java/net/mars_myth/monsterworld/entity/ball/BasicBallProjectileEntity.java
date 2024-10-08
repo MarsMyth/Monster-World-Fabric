@@ -10,7 +10,7 @@ import net.minecraft.network.listener.ClientPlayPacketListener;
 import net.minecraft.network.packet.Packet;
 import net.minecraft.network.packet.s2c.play.EntitySpawnS2CPacket;
 import net.minecraft.server.network.EntityTrackerEntry;
-import net.minecraft.util.hit.BlockHitResult;
+
 import net.minecraft.world.World;
 
 public class BasicBallProjectileEntity extends ThrownItemEntity {

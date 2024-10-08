@@ -1,12 +1,12 @@
 package net.mars_myth.monsterworld.entity;
 
-import net.fabricmc.fabric.api.object.builder.v1.entity.FabricEntityTypeBuilder;
+
 import net.mars_myth.monsterworld.MoonyMonsterWorld;
 import net.mars_myth.monsterworld.entity.ball.BasicBallProjectileEntity;
-import net.minecraft.entity.EntityDimensions;
+
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.SpawnGroup;
-import net.minecraft.entity.projectile.thrown.ThrownEntity;
+
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;

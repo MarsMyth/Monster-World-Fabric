@@ -2,8 +2,6 @@ package net.mars_myth.monsterworld.item.balls.custom;
 
 import net.mars_myth.monsterworld.entity.ball.BasicBallProjectileEntity;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.entity.projectile.ProjectileEntity;
-import net.minecraft.entity.projectile.thrown.SnowballEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.sound.SoundCategory;
@@ -11,8 +9,7 @@ import net.minecraft.sound.SoundEvents;
 import net.minecraft.stat.Stats;
 import net.minecraft.util.Hand;
 import net.minecraft.util.TypedActionResult;
-import net.minecraft.util.math.Direction;
-import net.minecraft.util.math.Position;
+
 import net.minecraft.world.World;
 
 public class BasicMonsterBall extends Item {
